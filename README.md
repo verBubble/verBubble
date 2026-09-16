@@ -2,6 +2,9 @@
 
 DPhil in Computer Science at the University of Oxford.
 I design algorithms for complex reasoning systems, prove them correct, and build and evaluate them at scale.
+The same questions run through this work: how to keep a system's conclusions correct and consistent as its inputs change,
+and how to make large-scale automated reasoning efficient enough to use in practice, which matters wherever software must
+derive trustworthy conclusions, from program analysis and knowledge graphs to reliable, verifiable reasoning in AI systems.
 [Google Scholar](https://scholar.google.com/citations?user=HrDe_SkAAAAJ&hl=en)
 
 ### Selected Research
