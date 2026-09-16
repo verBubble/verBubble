@@ -2,6 +2,7 @@
 
 DPhil in Computer Science at the University of Oxford.
 I design algorithms for complex reasoning systems, prove them correct, and build and evaluate them at scale.
+[Google Scholar](https://scholar.google.com/citations?user=HrDe_SkAAAAJ&hl=en)
 
 ### Selected Research
 
